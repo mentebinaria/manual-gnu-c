@@ -14,7 +14,11 @@ layout:
 
 # Manual GNU de C
 
-    Esta é uma tradução do GNU C Language Manual, disponível em [https://www.gnu.org/software/c-intro-and-ref/](https://www.gnu.org/software/c-intro-and-ref/).
+{% hint style="info" %}
+```
+Esta é uma tradução do GNU C Language Manual, disponível em [https://www.gnu.org/software/c-intro-and-ref/](https://www.gnu.org/software/c-intro-and-ref/).
+```
+{% endhint %}
 
 Este manual explica a linguagem C para uso com o GNU Compiler Collection (GCC) em sistema operacional GNU/Linux e em outros sistemas. Nós nos referimos a este dialeto como GNU C. Se você já sabe C, pode usar este manual como referência.
 
@@ -36,11 +40,11 @@ Se uma determinada construção não estiver disponível ou funciona de forma di
 
 Alguns aspectos do siginificado de programas em C dependem da plataforma alvo: em qual computador e em qual o sistema operacional o código compilado vai rodar. Quando for este o caso, diremos também.
 
-Raramente mencionanos C++  ou outras linguagens que o GCC suporta. Esperamos que este manual sirva de base para escrever manuais para estas linguagens, mas linguagens tão diferentes não podem compartilhar um manual comum.
+Raramente mencionanos C++ ou outras linguagens que o GCC suporta. Esperamos que este manual sirva de base para escrever manuais para estas linguagens, mas linguagens tão diferentes não podem compartilhar um manual comum.
 
 A linguagem C não provê facilidades _built-in_ (não traz faciilidades nativas) para realizar operações como entrada e saída, gerenciamento de memória, manipulação de strings e similares. Ao invés disso, essas facilidades são providas pelas funções definidas na biblioteca padrão, que está automaticamente disponível em qualquer programa em C. Veja A Biblioteca C Padrão no Manual de Referência da Biblioteca GNU C.
 
-A maioria dos sistemas GNU/Linux usa a biblioteca GNU C (glibc) para prover tais funcionalidades. Ela  mesma é escrita em C, então uma vez que você saiba C, pode ler o código-fonte dela e ver como as funções da bilioteca fazem seu trabalho. Uma fração das funções é implementada como chamadas de sistema (system calls), o que significa que elas contém uma instrução especial que pede ao kernel (do Linux) para realizar uma tarefa específica. Para entender como elas são implementadas, você precisaria ler o código-fonte do Linux. Se uma função da biblioteca é uma chamada de sistema ou não, é um detalhe interno de implementação e não faz diferença para quem vai chamar a função.
+A maioria dos sistemas GNU/Linux usa a biblioteca GNU C (glibc) para prover tais funcionalidades. Ela mesma é escrita em C, então uma vez que você saiba C, pode ler o código-fonte dela e ver como as funções da bilioteca fazem seu trabalho. Uma fração das funções é implementada como chamadas de sistema (system calls), o que significa que elas contém uma instrução especial que pede ao kernel (do Linux) para realizar uma tarefa específica. Para entender como elas são implementadas, você precisaria ler o código-fonte do Linux. Se uma função da biblioteca é uma chamada de sistema ou não, é um detalhe interno de implementação e não faz diferença para quem vai chamar a função.
 
 Este manual incorpora o antigo Manual do pré-processador GNU C, que foi um dos primeiros manuais GNU. Ele também usa textos to antigo Manual do GNU C que foi escrito por Trevis Rothwell e James Youngman.
 
