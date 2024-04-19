@@ -14,9 +14,7 @@ layout:
 
 # Manual GNU de C
 
-{% hint style="info" %}
-Esta é uma tradução do GNU C Language Manual, disponível em [https://www.gnu.org/software/c-intro-and-ref/](https://www.gnu.org/software/c-intro-and-ref/).
-{% endhint %}
+    Esta é uma tradução do GNU C Language Manual, disponível em [https://www.gnu.org/software/c-intro-and-ref/](https://www.gnu.org/software/c-intro-and-ref/).
 
 Este manual explica a linguagem C para uso com o GNU Compiler Collection (GCC) em sistema operacional GNU/Linux e em outros sistemas. Nós nos referimos a este dialeto como GNU C. Se você já sabe C, pode usar este manual como referência.
 
