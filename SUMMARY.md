@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Manual GNU de C](README.md)
-* [Nota do Tradutor](nota-do-tradutor.md)
+* [Introdução à Edição em Português](README.md)
+* [Manual do GNU C](<README (1).md>)
 * [O Primeiro Exemplo](o-primeiro-exemplo/README.md)
   * [Fibonacci Recursivo](o-primeiro-exemplo/fibonacci-recursivo/README.md)
     * [Cabeçalho da Função](o-primeiro-exemplo/fibonacci-recursivo/cabecalho-da-funcao.md)
