@@ -98,7 +98,7 @@ declara a variável local `ultimo` como inteiro (tipo `int`) e a inicializa com 
 Atribuição: um tipo de expressão específica, escrita com o operador `=`, que armazena um novo valor numa variável ou em outro lugar. Portanto,
 
 ```c
-varivel = valor
+variavel = valor
 ```
 
 é uma expressão que computa `valor` e aramazena o valor na `variavel`. Veja Expressões de Atribuição.

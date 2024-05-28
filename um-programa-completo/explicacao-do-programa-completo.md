@@ -22,4 +22,4 @@ O item 20 da série Fibonacci é 6765 Este programa não contém uma definição
 
 Não se preocupe com arquivos de cabeçalho por agora; explicaremos eles mais tarde em Arquivos de Cabeçalho.
 
-O primeiro argumento de printf não precisa ser uma constante de string; pode ser qualquer string (veja Strings). No entanto, usar uma constante é o caso mais comum.
+O primeiro argumento da printf não precisa ser uma constante de string; pode ser qualquer string (veja Strings). No entanto, usar uma constante é o caso mais comum.
