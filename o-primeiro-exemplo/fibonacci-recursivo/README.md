@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Fibonacci Recursivo
+# Fibonacci Recursiva
 
 Para introduzir os conceitos mais básicos de C, vamos ver um código que implementa uma função matemática simples que faz cálculos com números inteiros. Esta função calcula o enésimo número na série de Fibonnaci, na qual cada número é a soma dos dois números anteriores: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ….
 
@@ -30,8 +30,8 @@ fib (int n)
 Este simples programa ilustra vários recursos da linguagem C:
 
 * A definição de uma função cujas primeiras duas linhas constituem no cabeçalho da função. Veja Definição de Funções.
-* Um parâmetro de função `n`, referenciado com a variável `n` dentro do corpo da funçào. Veja Variáveis de Parâmetros de Função. Uma definição de função usa parâmetros para se referir aos valores dos argumentos passados para ela numa chamada de função.
-* Aritimética. Programas em C somam com `+` e subtraem com `-`. Veja Aritimética.
+* Um parâmetro de função `n`, referenciado com a variável `n` dentro do corpo da função. Veja Variáveis de Parâmetros de Função. Uma definição de função usa parâmetros para se referir aos valores dos argumentos passados para ela numa chamada de função.
+* Aritmética. Programas em C somam com `+` e subtraem com `-`. Veja Aritmética.
 * Comparações numéricas. O operador `<=` testa se é "menor ou igual". Veja Comparações Numéricas.
 * Constantes inteiras escritas na base 10. Veja Constantes Inteiras.
 * Uma chamada de função. A chamada de função `fib (n - 1)` chama a função `fib` passando o valor `n - 1` como seu argumento. Veja Chamadas de Função.
