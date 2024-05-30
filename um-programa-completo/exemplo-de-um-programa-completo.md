@@ -31,7 +31,7 @@ fib (int n)
 int
 main (void)
 {
-  printf ("Fibonacci series item %d is %d\n",
+  printf ("O item %d da série de Fibonacci é %d\n",
           20, fib (20));
   return 0;
 }

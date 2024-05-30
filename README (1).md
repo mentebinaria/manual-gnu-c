@@ -1,7 +1,7 @@
 ---
 layout:
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Manual do GNU C
+# Prefácio
 
 Este manual explica a linguagem C para uso com o GNU Compiler Collection (GCC) em sistema operacional GNU/Linux e em outros sistemas. Nós nos referimos a este dialeto como GNU C. Se você já sabe C, pode usar este manual como referência.
 

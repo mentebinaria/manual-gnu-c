@@ -1,9 +1,12 @@
 ---
+description: >-
+  Introdução e Manual de Referência por Richard Stallman, Trevis Rothwell e
+  Nelson Beebe
 layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -12,9 +15,11 @@ layout:
     visible: true
 ---
 
-# Introdução à Edição em Português
+# Linguagem GNU C
 
-Este livro é uma tradução comentada do [GNU C Language Manual](https://www.gnu.org/software/c-intro-and-ref/), escrito por **Richard Stallman** e publicado online e gratuitamente no projeto GNU. Aqui na Mente Binária, pensamos que nossos conterrâneos no Brasil (e possivelmente outros falantes da língua portuguesa pelo mundo afora) merecem o acesso a um material deste calibre também em seu idioma materno e por isso iniciamos este processo de tradução.
+## Introdução à Edição em Português
+
+Este livro é uma tradução comentada do [GNU C Language Manual](https://www.gnu.org/software/c-intro-and-ref/), publicado online  gratuitamente no projeto GNU. Aqui na Mente Binária, pensamos que nossos conterrâneos no Brasil (e possivelmente outros falantes da língua portuguesa pelo mundo afora) merecem o acesso a um material deste calibre também em seu idioma materno e por isso iniciamos este processo de tradução.
 
 Traduzir nunca é fácil, por isso ressalto aqui algumas decisões que tomei e também algumas especificidades desta tradução:
 

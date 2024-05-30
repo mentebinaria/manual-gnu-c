@@ -20,19 +20,19 @@ Aqui vai um algoritmo muita mais rápido para computar a mesma sequência de Fib
 int
 fib (int n)
 {
-  int ultimo = 1;   /* O valor inicial é (1).  */
+  int ultimo = 1;   /* O valor inicial é fib (1).  */
   int anterior = 0;   /* O valor inicial controla fib (2).  */
   int i;
 
   for (i = 1; i < n; ++i)
     /* Se n é 1 ou menos, a repetição executa zero vezes
-    /* uma vez que i < n é falso na primeira vez. */
+    /* já que i < n é falso logo na primeira vez. */
     {
       /* Agora ultimo é fib (i)
          e anterior é fib (i - 1).  */
       /* Calcula fib (i + 1).  */
       int proximo = anterior + ultimo;
-      /* Shift the values down.  */
+      /* Troca os valores.  */
       anterior = ultimo;
       ultimo = proximo;
       /* Agora ultimo é fib (i + 1)
@@ -51,7 +51,7 @@ Aqui vão os recursos adicionais da linguagem C que essa definição utiliza:
 
 #### **Blocos internos**
 
-Dentro de uma função, onde um comando é chamado, você pode escreve um _bloco_. Seu formato é `{ ... }` e ele contém zero ou mais comandos e declarações. (você também pode utilizar blocos adicionais como comandos dentro de um bloco.)
+Dentro de uma função, onde um comando é chamado, você pode escrever um _bloco_. Seu formato é `{ ... }` e ele contém zero ou mais comandos e declarações. (Você também pode utilizar blocos adicionais como comandos dentro de um bloco.)
 
 O corpo da função também contém um bloco, que é a razão deste conter comandos e declarações.
 
@@ -59,9 +59,9 @@ Veja Blocos.
 
 #### **Declarações de variáveis locais**
 
-O corpo da função contém tanto declarações quanto comandos. Há três declarações directamente no corpo da função, assim como uma quarta declaração num bloco interno. Cada declaração começa com `int` porque isso declara uma variável cujo tipo é inteiro. Uma declaração pode declarar várias variáveis, mas cada uma dessas declara somente uma variável.
+O corpo da função contém tanto declarações quanto comandos. Há três declarações diretamente no corpo da função, assim como uma quarta declaração num bloco interno. Cada declaração começa com `int` porque isso declara uma variável cujo tipo é inteiro. Uma declaração pode declarar várias variáveis, mas cada uma dessas declara somente uma variável.
 
-Variáveis declaradas dentro de um bloco (seja ele o que define o corpo de uma função ou um bloco interno) são _variáveis locais_. Estas variáveis existem somente dentro daquele bloco; seus nomes não estão definidos fora daquele bloco e sair do bloco desaloca a memória ocupada por elas. Este exemplo declare quatro variáveis locais: `ultimo`, `anterior`, `i` e `proximo`.  &#x20;
+Variáveis declaradas dentro de um bloco (seja ele o que define o corpo de uma função ou um bloco interno) são _variáveis locais_. Estas variáveis existem somente dentro daquele bloco; seus nomes não estão definidos fora daquele bloco e sair do bloco desaloca a memória ocupada por elas. Este exemplo declara quatro variáveis locais: `ultimo`, `anterior`, `i` e `proximo`.  &#x20;
 
 A declaração de variável local mais básica é assim:
 
@@ -101,7 +101,7 @@ Atribuição: um tipo de expressão específica, escrita com o operador `=`, que
 variavel = valor
 ```
 
-é uma expressão que computa `valor` e aramazena o valor na `variavel`. Veja Expressões de Atribuição.
+é uma expressão que computa `valor` e armazena o valor na `variavel`. Veja Expressões de Atribuição.
 
 #### **Comandos de expressão**
 
@@ -117,7 +117,7 @@ O operador de incremento é o `++`. A expressão `++i` é uma forma abreviada de
 
 #### Comando `for`
 
-Um comando `for` é uma maneira clara de executar um comando repetidamente—um laço (ver Comandos de Laço). Especificamente,
+O comando `for` é uma maneira clara de executar um comando repetidamente—um laço (ver Comandos de Laço). Especificamente,
 
 ```
 for (i = 1; i < n; ++i)
@@ -128,10 +128,10 @@ começa fazendo `i = 1` (põe o um em `i` ) para preparar o laço. O laço em si
 
 * Testar `i < n` e sair do laço se isso for falso.
 * Executar corpo.
-* Avançar o laço (executar `++i`, que decrementa `i`).
+* Avançar o laço (executar `++i`, que incrementa `i`).
 
-O resultado é executar corpo com 1 em `i`, então com 2 em `i` e assim sucessivamente, parando imediatamente antes da repetição quando `i` seria igual a `n`. Se `n` é menor que 1, o laço vai executar o corpo zero vezes.
+O resultado é executar corpo com 1 em `i`, então com 2 em `i` e assim sucessivamente, parando imediatamente antes da repetição quando `i` for igual a `n`. Se `n` é menor que 1, o laço vai executar o corpo zero vezes.
 
-O corpo do comando `for` precisa ser um e somente um comando. Você não pode escrever dois comandos numa linha nele; se você tentar, somente o primeiro deles será tratado como parte do laço.
+O corpo do laço `for` precisa ser um e somente um comando. Você não pode escrever dois comandos numa mesma linha nele; se você tentar, somente o primeiro deles será tratado como parte do laço.
 
-A forma de colocar múltiplos comando nele é agrupá-los como um bloco and é isso que fazemos neste exemplo.
+A forma de colocar múltiplos comandos no laço `for` é agrupá-los como um bloco e é isso que fazemos neste exemplo.
