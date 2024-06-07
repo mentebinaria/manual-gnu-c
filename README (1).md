@@ -40,7 +40,7 @@ A linguagem C não provê facilidades _built-in_ (não traz facilidades nativas)
 
 A maioria dos sistemas GNU/Linux usa a biblioteca GNU C (glibc) para prover tais funcionalidades. Ela mesma é escrita em C, então uma vez que você saiba C, pode ler o código-fonte dela e ver como as funções da biblioteca fazem seu trabalho. Uma fração das funções é implementada como chamadas de sistema (system calls), o que significa que elas contêm uma instrução especial que pede ao kernel (do Linux) para realizar uma tarefa específica. Para entender como elas são implementadas, você precisaria ler o código-fonte do Linux. Se uma função da biblioteca é uma chamada de sistema ou não, é um detalhe interno de implementação e não faz diferença para quem vai chamar a função.
 
-Este manual incorpora o antigo Manual do Pré-processador GNU C, que foi um dos primeiros manuais GNU. Ele também usa textos to antigo Manual do GNU C que foi escrito por Trevis Rothwell e James Youngman.
+Este manual incorpora o antigo Manual do Pré-processador GNU C, que foi um dos primeiros manuais GNU. Ele também usa textos do antigo Manual do GNU C que foi escrito por Trevis Rothwell e James Youngman.
 
 O GNU C tem vários recursos obscuros, cada um disponível seja por retrocompatibilidade ou para atender situações muito específicas. Nós os colocamos num manual complementar, o Manual de Obscuridades do GNU C, que será publicado digitalmente no futuro.
 
