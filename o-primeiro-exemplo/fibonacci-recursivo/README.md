@@ -36,7 +36,7 @@ Este simples programa ilustra vários recursos da linguagem C:
 * Constantes inteiras escritas na base 10. Veja Constantes Inteiras.
 * Uma chamada de função. A chamada de função `fib (n - 1)` chama a função `fib` passando o valor `n - 1` como seu argumento. Veja Chamadas de Função.
 * Um comentário que começa com `/*` e termina com `*/`. O comentário não tem nenhum efeito na execução do programa. Seu propósito é prover explicações para pessoas lendo o código-fonte. Incluir comentários no código é tremendamente importante - eles adicionam contexto de forma que outras pessoas possam entender o código mais rapidamente. Veja Comentários.
-* Dois tipos de comandos, o `return` and o `if...else`. Veja Comandos.
+* Dois tipos de comandos, o `return` e o `if...else`. Veja Comandos.
 * Recursão. A função `fib` chama a si mesma; isto é chamado de _chamada recursiva_. Isto é válido em C e bastante comum.
 
 A função `fib` não seria útil se ela não retornasse. Portanto, funções recursivas, para serem úteis, precisam evitar _recursão infinita_.
