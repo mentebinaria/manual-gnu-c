@@ -39,4 +39,4 @@ main (void)
 
 Este programa imprime uma mensagem que exibe o valor de `fib (20)`.
 
-Agora vamos à uma explicação deste código.
+Agora vamos à uma explicação sobre este código.

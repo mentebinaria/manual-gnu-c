@@ -18,7 +18,7 @@ Aqui está a explicação do código do exemplo na seção anterior.
 
 Este programa de exemplo imprime uma mensagem que mostra o valor de `fib (20)` e termina com o código `0` (que indica uma execução bem-sucedida).
 
-Todo programa em C é iniciado executando a função chamada `main`. Portanto, o programa de exemplo define uma função chamada `main` para fornecer uma maneira de iniciá-lo. O que essa função faz é o que o programa faz. Veja A Função main.
+Todo programa em C inicia com a execução da função chamada `main`.  Portanto, o programa de exemplo define uma função chamada `main` para fornecer uma maneira de iniciá-lo. O que essa função faz é o que o programa faz. Veja A Função main.
 
 A função `main` é a primeira a ser chamada quando o programa é executado, mas ela não é a primeira a ser definida no código de exemplo. A ordem das definições de funções no código-fonte não faz diferença para o significado do programa.
 
