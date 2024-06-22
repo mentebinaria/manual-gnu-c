@@ -40,4 +40,6 @@ que inicia o debugger (ou depurador) GDB (veja [A Sample GDB Session](https://so
 
 Um conselho do Richard Stallman, a partir da sua experiência pessoal, é ir para o debugger assim que você conseguir reproduzir o problema. Não tente evitar isso usando outros métodos—ocasionalmente eles funcionam como atalhos, mas normalmente eles levam muito tempo. Com o debugger você certamente vai encontrar o problema num tempo razoável; em geral, você terminará seu trabalho mais rapidamente. Quanto mais cedo você levar a sério e iniciar o debugger, mais cedo provavelmente encontrará o problema.
 
-Veja Compilação para uma introdução sobre compilação de programais mais complexos que consistem em mais de um arquivo de código-fonte.
+Veja Compilação[^1] para uma introdução sobre compilação de programais mais complexos que consistem em mais de um arquivo de código-fonte.
+
+[^1]: Capítulo pendente de tradução

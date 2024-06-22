@@ -53,9 +53,9 @@ else
   comando-se-falso
 ```
 
-O que ele faz é computar a expressão condicional e, se der "verdadeiro", ele executa o comando-se-verdadeiro. Do contrário, executa o comando-se-falso. Veja Comando if-else.
+O que ele faz é computar a expressão condicional e, se der "verdadeiro", ele executa o comando-se-verdadeiro. Do contrário, executa o comando-se-falso. Veja [Comando if-else](#user-content-fn-1)[^1].
 
-Dentro do comando `if`…`else`, condicional é simplesmente uma expressão. Ela é considerada "verdadeira" se seu valor for diferente de zero. (Uma operação de comparação como em `n <= 2`, produz o valor 1 se for "verdadeiro" e 0 se for "falso.” Veja Comparações Numéricas.) Portanto,
+Dentro do comando `if`…`else`, condicional é simplesmente uma expressão. Ela é considerada "verdadeira" se seu valor for diferente de zero. (Uma operação de comparação como em `n <= 2`, produz o valor 1 se for "verdadeiro" e 0 se for "falso.” Veja [Comparações Numéricas](#user-content-fn-2)[^2].) Portanto,
 
 ```c
 if (n <= 2)
@@ -80,6 +80,14 @@ Cada um desses comandos encerra a execução da função e provê um valor para 
 
 Calcular `fib(n)`, que utiliza inteiros, funciona apenas quando `n < 47` porque o resultado de `fib (47)` é muito grande para caber num tipo `int`. A operação de adição ao tentar somar `fib (46)` e `fib (45)` não consegue produzir o resultado correto. Isto é chamado de _estouro de inteiro (integer overflow)_.
 
-Estouros podem se manifestar de várias maneiras, mas uma coisa que eles não fazem é produzir o resultado correto já que este não cabe no espaço reservado para o valor. Veja Estouro de Inteiro.
+Estouros podem se manifestar de várias maneiras, mas uma coisa que eles não fazem é produzir o resultado correto já que este não cabe no espaço reservado para o valor. Veja [Estouro de Inteiro](#user-content-fn-3)[^3].
 
-Veja Funções para uma explicação completa sobre funções.
+Veja Funções[^4] para uma explicação completa sobre funções.
+
+[^1]: Capítulo pendente de tradução
+
+[^2]: Capítulo pendente de tradução
+
+[^3]: Capítulo pendente de tradução
+
+[^4]: Capítulo pendente de tradução

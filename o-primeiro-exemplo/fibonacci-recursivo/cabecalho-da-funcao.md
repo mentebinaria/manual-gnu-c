@@ -21,5 +21,8 @@ int
 fib (int n)
 ```
 
-O cabeçalho acima diz que a função retorna um inteiro (tipo `int`), que seu nome é `fib` e que ela recebe um argumento chamado `n` que também é um inteiro. (Tipos de dados serão explicados mais tarde, em Tipos Primitivos.)
+O cabeçalho acima diz que a função retorna um inteiro (tipo `int`), que seu nome é `fib` e que ela recebe um argumento chamado `n` que também é um inteiro. (Tipos de dados serão explicados mais tarde, em [Tipos Primitivos](#user-content-fn-1)[^1].)
 
+
+
+[^1]: Capítulo pendente de tradução

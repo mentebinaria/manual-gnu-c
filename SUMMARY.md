@@ -13,6 +13,11 @@
   * [Explicação do Programa Completo](um-programa-completo/explicacao-do-programa-completo.md)
   * [Programa Completo Linha por Linha](um-programa-completo/programa-completo-linha-por-linha.md)
   * [Compilando o Programa de Exemplo](um-programa-completo/compilando-o-programa-de-exemplo.md)
+* [👜 Armazenamento e Dados](armazenamento-e-dados.md)
+* [🥑 Além dos Inteiros](alem-dos-inteiros/README.md)
+  * [Um Exemplo com Números Não Inteiros](alem-dos-inteiros/um-exemplo-com-numeros-nao-inteiros.md)
+  * [Um Exemplo com Arrays](alem-dos-inteiros/um-exemplo-com-arrays.md)
+  * [Variações para o Exemplo com Array](alem-dos-inteiros/variacoes-para-o-exemplo-com-array.md)
 
 ## Apêndices
 

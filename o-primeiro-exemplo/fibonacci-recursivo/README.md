@@ -31,11 +31,11 @@ Este simples programa ilustra vários recursos da linguagem C:
 
 * A definição de uma função cujas primeiras duas linhas constituem no cabeçalho da função. Veja Definição de Funções.
 * Um parâmetro de função `n`, referenciado com a variável `n` dentro do corpo da função. Veja Variáveis de Parâmetros de Função. Uma definição de função usa parâmetros para se referir aos valores dos argumentos passados para ela numa chamada de função.
-* Aritmética. Programas em C somam com `+` e subtraem com `-`. Veja Aritmética.
-* Comparações numéricas. O operador `<=` testa se é "menor ou igual". Veja Comparações Numéricas.
+* Aritmética. Programas em C somam com `+` e subtraem com `-`. Veja Aritmética[^1].
+* Comparações numéricas. O operador `<=` testa se é "menor ou igual". Veja [Comparações Numéricas](#user-content-fn-2)[^2].
 * Constantes inteiras escritas na base 10. Veja Constantes Inteiras.
 * Uma chamada de função. A chamada de função `fib (n - 1)` chama a função `fib` passando o valor `n - 1` como seu argumento. Veja Chamadas de Função.
-* Um comentário que começa com `/*` e termina com `*/`. O comentário não tem nenhum efeito na execução do programa. Seu propósito é prover explicações para pessoas lendo o código-fonte. Incluir comentários no código é tremendamente importante - eles adicionam contexto de forma que outras pessoas possam entender o código mais rapidamente. Veja Comentários.
+* Um comentário que começa com `/*` e termina com `*/`. O comentário não tem nenhum efeito na execução do programa. Seu propósito é prover explicações para pessoas lendo o código-fonte. Incluir comentários no código é tremendamente importante - eles adicionam contexto de forma que outras pessoas possam entender o código mais rapidamente. Veja Comentários[^3].
 * Dois tipos de comandos, o `return` e o `if...else`. Veja Comandos.
 * Recursão. A função `fib` chama a si mesma; isto é chamado de _chamada recursiva_. Isto é válido em C e bastante comum.
 
@@ -46,3 +46,10 @@ Esta definição de função previne a recursão infinita ao tratar o caso espec
 * Cabeçalho da Função O nome da função e como ela é chamada.
 * Corpo da Função Declarações que implementam a função.
 
+
+
+[^1]: Capítulo pendente de tradução
+
+[^2]: Capítulo pendente de tradução
+
+[^3]: Capítulo pendente de tradução

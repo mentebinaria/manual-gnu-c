@@ -19,7 +19,7 @@ Recursão tem uma desvantagem: há um limite no número de níveis aninhados de 
 
 O tamanho da pilha é limitado; se um programa tenta usar muito dela, isso causa uma falha porque a pilha estará cheia. Isso é chamado de _estouro de pilha (stack overflow)_.
 
-Estouros de pilha no GNU/Linux se manifestam tipicamente como o _sinal_ chamado de `SIGSEGV`, também conhecido como "falha de segmentação" ("segmentation fault"). Por padrão, este sinal encerra a execução do programa imediatamente ao invés de permitir que o programa se recupere ou atinja seu fim esperado. (Nestes casos, nós normalmente falamos que o programa "crashou"). Veja Sinais.
+Estouros de pilha no GNU/Linux se manifestam tipicamente como o _sinal_ chamado de `SIGSEGV`, também conhecido como "falha de segmentação" ("segmentation fault"). Por padrão, este sinal encerra a execução do programa imediatamente ao invés de permitir que o programa se recupere ou atinja seu fim esperado. (Nestes casos, nós normalmente falamos que o programa "crashou"). Veja Sinais[^1].
 
 {% hint style="info" %}
 Aqui me rendi ao neologismo "crashou", oriundo do inglês "crash". Até pensei em usar "travou", mas este termo nós brasileiros normalmente utilizamos quando o programa para de responder ("congela"), mas numa situação de estouro de pilha, o programa é encerrado e não fica "congelado" ou "travado".
@@ -45,3 +45,5 @@ Com um laptop [Lemote](https://en.wikipedia.org/wiki/Lemote) Yeeloong rodando o 
 {% hint style="info" %}
 Em meus testes com o Windows 11 e Visual Studio 2022, a pilha estourou a partir de 4023 chamadas, ou seja, com `fill_stack(4024)`.
 {% endhint %}
+
+[^1]: Capítulo pendente de tradução

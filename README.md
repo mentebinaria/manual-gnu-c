@@ -19,7 +19,7 @@ layout:
 
 ## Introdução à Edição em Português
 
-Este livro é uma tradução comentada do [GNU C Language Manual](https://www.gnu.org/software/c-intro-and-ref/), publicado online  gratuitamente no projeto GNU. Aqui na Mente Binária, pensamos que nossos conterrâneos no Brasil (e possivelmente outros falantes da língua portuguesa pelo mundo afora) merecem o acesso a um material deste calibre também em seu idioma materno e por isso iniciamos este processo de tradução.
+Este livro é uma tradução comentada do [GNU C Language Manual](https://www.gnu.org/software/c-intro-and-ref/), publicado online gratuitamente no projeto GNU. Aqui na Mente Binária, pensamos que nossos conterrâneos no Brasil (e possivelmente outros falantes da língua portuguesa pelo mundo afora) merecem o acesso a um material deste calibre também em seu idioma materno e por isso iniciamos este processo de tradução.
 
 Traduzir nunca é fácil, por isso ressalto aqui algumas decisões que tomei e também algumas especificidades desta tradução:
 
@@ -31,6 +31,8 @@ Traduzir nunca é fácil, por isso ressalto aqui algumas decisões que tomei e t
 {% hint style="info" %}
 Isto é um comentário do tradutor.
 {% endhint %}
+
+* Preferi manter os nomes de variáveis e funções em inglês porque normalmente os compiladores de C não suportam caracteres latinos para definir estes nomes.
 
 Qualquer erro, crítica ou sugestão, é só entrar em [contato](https://www.mentebinaria.com.br/contact/) conosco.
 

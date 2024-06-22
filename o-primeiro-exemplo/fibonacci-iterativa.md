@@ -55,7 +55,7 @@ Dentro de uma função, onde um comando é chamado, você pode escrever um _bloc
 
 O corpo da função também contém um bloco, que é a razão deste conter comandos e declarações.
 
-Veja Blocos.
+Veja Blocos[^1].
 
 #### **Declarações de variáveis locais**
 
@@ -75,7 +75,7 @@ Por exemplo,
 int i;
 ```
 
-declara a variável local `i` como um inteiro. Veja Declarações de Variáveis.
+declara a variável local `i` como um inteiro. Veja [Declarações de Variáveis](#user-content-fn-2)[^2].
 
 #### **Inicializadores**
 
@@ -101,19 +101,19 @@ Atribuição: um tipo de expressão específica, escrita com o operador `=`, que
 variavel = valor
 ```
 
-é uma expressão que computa `valor` e armazena o valor na `variavel`. Veja Expressões de Atribuição.
+é uma expressão que computa `valor` e armazena o valor na `variável`. Veja [Expressões de Atribuição](#user-content-fn-3)[^3].
 
 #### **Comandos de expressão**
 
 Um comando de expressão é uma expressão seguida de um ponto-e-vírgula. Isso computa o valor da expressão e na sequência ignora este valor.
 
-Um comando de expressão é útil quando a expressão muda algum dado ou tem outros efeitos colaterais — por exemplo, com chamadas de função ou com atribuições como neste exemplo. Veja Comando de Expressão.
+Um comando de expressão é útil quando a expressão muda algum dado ou tem outros efeitos colaterais — por exemplo, com chamadas de função ou com atribuições como neste exemplo. Veja [Comando de Expressão](#user-content-fn-4)[^4].
 
 Não faz sentido usar uma expresão sem efeitos colaterais num comando de expressão, exceto em casos muito especiais. Por exemplo, o comando de expressão `x;` examinaria o valor de `x` e o ignoraria.
 
 #### **Operator de incremento**
 
-O operador de incremento é o `++`. A expressão `++i` é uma forma abreviada de `i = i + 1`. Veja Incremento/Decremento.
+O operador de incremento é o `++`. A expressão `++i` é uma forma abreviada de `i = i + 1`. Veja Incremento/Decremento[^5].
 
 #### Comando `for`
 
@@ -135,3 +135,13 @@ O resultado é executar corpo com 1 em `i`, então com 2 em `i` e assim sucessiv
 O corpo do laço `for` precisa ser um e somente um comando. Você não pode escrever dois comandos numa mesma linha nele; se você tentar, somente o primeiro deles será tratado como parte do laço.
 
 A forma de colocar múltiplos comandos no laço `for` é agrupá-los como um bloco e é isso que fazemos neste exemplo.
+
+[^1]: Capítulo pendente de tradução
+
+[^2]: Capítulo pendente de tradução
+
+[^3]: Capítulo pendente de tradução
+
+[^4]: Capítulo pendente de tradução
+
+[^5]: Capítulo pendente de tradução
