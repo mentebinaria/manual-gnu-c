@@ -14,7 +14,7 @@ layout:
 
 # Um Exemplo com Números Não Inteiros
 
-Aqui está uma função que opera e retorna números de _ponto flutuante_ que não precisam ser, necessariamente, inteiros. Ponto flutuante é uma maneira de representa um número como uma fração juntamente com uma potência de 2. (Para mais detalhes, veja [Tipos de Dados de Ponto Flutuante](#user-content-fn-1)[^1].) Este exemplo calcula a média de três números de ponto flutuante que são passados para a função como argumentos:
+Aqui está uma função que opera e retorna números de _ponto flutuante_ que não precisam ser, necessariamente, inteiros. Ponto flutuante é uma maneira de representar um número como uma fração juntamente com uma potência de 2. (Para mais detalhes, veja [Tipos de Dados de Ponto Flutuante](#user-content-fn-1)[^1].) Este exemplo calcula a média de três números de ponto flutuante que são passados para a função como argumentos:
 
 ```c
 double
@@ -55,6 +55,6 @@ main (void)
 }
 ```
 
-A partir de agora, não mostrares mais exemplos de chamadas às funções que escrevemos na função `main`. Em vez disso, encorajamos você a escrevê-las por conta própria quando quiser testar a execução de algum código.
+A partir de agora, não mostraremos mais exemplos de chamadas às funções que escrevemos na função `main`. Em vez disso, encorajamos você a escrevê-las por conta própria quando quiser testar a execução de algum código.
 
 [^1]: Capítulo pendente de tradução

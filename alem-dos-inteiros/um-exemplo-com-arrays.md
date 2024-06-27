@@ -34,7 +34,7 @@ avg_of_double (int length, double input_data[])
 
 O código anterior introduz a expressão para se referir a um elemento de um array: `input_data[i]` significa o elemento de índice `i` no array `input_data`. O índice do elemento pode ser qualquer expressão com um valor inteiro; neste caso, a expressão é `i`. Veja [Acessando Elementos do Array](#user-content-fn-2)[^2].
 
-O índice menor índice válido em um array é 0, _não_ 1, e o maior índice válido é um a menos que o número de elementos. (Isso é conhecido como _indexação com origem zero_.)
+O menor índice válido em um array é 0, _não_ 1, e o maior índice válido é um a menos que o número de elementos. (Isso é conhecido como _indexação com origem zero_.)
 
 Este exemplo também introduz a maneira de declarar que um parâmetro de função é um array. Tal  declaração é feita após o nome do parâmetro. Assim como `double foo` declara que `foo` é do tipo `double`, `double input_data[]` declara que cada elemento de `input_data` é do tipo `double`. Portanto, `input_data` em si tem o tipo "array de double".
 

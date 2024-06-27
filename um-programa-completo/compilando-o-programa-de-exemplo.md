@@ -22,7 +22,7 @@ O programa de exemplo consiste num único arquivo de código-fonte. Se o chamarm
 gcc -g -O -o fib1 fib1.c
 ```
 
-No comando acima, `-g` instrui que sejam geradas informações de depuração, `-O` diz para otimizar em níevel básico e `-o fib1` diz para criar o programa executável num arquivo `fib1`.
+No comando acima, `-g` instrui que sejam geradas informações de depuração, `-O` diz para otimizar em nível básico e `-o fib1` diz para criar o programa executável num arquivo `fib1`.
 
 Para rodar o programa, use o nome do arquivo como um comando do shell. Por exemplo,
 

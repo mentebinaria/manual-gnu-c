@@ -14,7 +14,7 @@ layout:
 
 # Fibonacci Iterativa
 
-Aqui vai um algoritmo muita mais rápido para computar a mesma sequência de Fibonacci. Ele é mais rápido por duas razões. Primeiro, ele usa _iteração_ (isto é, repetição) ao invés de recursão, então ele não consome o tempo de um número alto de chamadas de função, mas principalmente, ele é mais rápido porque o número de repetições é pequeno - somente `n`.
+Aqui vai um algoritmo muito mais rápido para computar a mesma sequência de Fibonacci. Ele é mais rápido por duas razões. Primeiro, ele usa _iteração_ (isto é, repetição) ao invés de recursão, então ele não consome o tempo de um número alto de chamadas de função, mas principalmente, ele é mais rápido porque o número de repetições é pequeno - somente `n`.
 
 ```c
 int
