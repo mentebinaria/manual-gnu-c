@@ -72,6 +72,4 @@ Só lembre-se que isto é em tempo de compilação, ou seja, é preciso recompil
 
 ***
 
-Se precisar de mais alguma tradução ou ajuste, estou à disposição!
-
 [^1]: Capítulo pendente de tradução
