@@ -59,9 +59,9 @@ Isto é código, não comentário.
 
 Mas tenha cuidado ao comentar uma extremidade de um comentário tradicional com um comentário de linha. O delimitador '/\*' não inicia um comentário se ocorrer dentro de um comentário já iniciado.
 
-```
- // comentário de linha  /* que normalmente começaria um comentário de bloco
-    Oops! Este comentário de linha acabou;
+```c
+ // comentário de linha  /* e aqui normalmente começaria um comentário de bloco
+    Oops! O comentário de linha acabou;
     isto não é mais um comentário.  */
 ```
 
@@ -71,7 +71,11 @@ Um comentário é sintaticamente equivalente ao espaço em branco, então ele se
 
 ```c
   int/* comment */foo;
+```
+
 é equivalente a
+
+```c
   int foo;
 ```
 
