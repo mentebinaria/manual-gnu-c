@@ -18,6 +18,14 @@
   * [Um Exemplo com Números Não Inteiros](alem-dos-inteiros/um-exemplo-com-numeros-nao-inteiros.md)
   * [Um Exemplo com Arrays](alem-dos-inteiros/um-exemplo-com-arrays.md)
   * [Variações para o Exemplo com Array](alem-dos-inteiros/variacoes-para-o-exemplo-com-array.md)
+* [✍️ Sintaxe Lexical](sintaxe-lexical/README.md)
+  * [Escreva Programas em Inglês!](sintaxe-lexical/escreva-programas-em-ingles.md)
+  * [Caracteres](sintaxe-lexical/caracteres.md)
+  * [Espaços em Branco](sintaxe-lexical/espacos-em-branco.md)
+  * [Comentários](sintaxe-lexical/comentarios.md)
+  * [Identificadores](sintaxe-lexical/identificadores.md)
+  * [Operadores e Pontuação](sintaxe-lexical/operadores-e-pontuacao.md)
+  * [Continuação de Linha](sintaxe-lexical/continuacao-de-linha.md)
 
 ## Apêndices
 
