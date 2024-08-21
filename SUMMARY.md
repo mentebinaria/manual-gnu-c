@@ -26,6 +26,12 @@
   * [Identificadores](sintaxe-lexical/identificadores.md)
   * [Operadores e Pontuação](sintaxe-lexical/operadores-e-pontuacao.md)
   * [Continuação de Linha](sintaxe-lexical/continuacao-de-linha.md)
+* [➕ Aritmética](aritmetica/README.md)
+  * [Aritmética Básica](aritmetica/aritmetica-basica.md)
+  * [Aritmética de Inteiros](aritmetica/aritmetica-de-inteiros.md)
+  * [Estouro de Inteiro](aritmetica/estouro-de-inteiro/README.md)
+    * [Estouro com Inteiros sem Sinal](aritmetica/estouro-de-inteiro/estouro-com-inteiros-sem-sinal.md)
+    * [Estouro com Inteiros com Sinal](aritmetica/estouro-de-inteiro/estouro-com-inteiros-com-sinal.md)
 
 ## Apêndices
 
