@@ -30,8 +30,8 @@
   * [Aritmética Básica](aritmetica/aritmetica-basica.md)
   * [Aritmética de Inteiros](aritmetica/aritmetica-de-inteiros.md)
   * [Estouro de Inteiro](aritmetica/estouro-de-inteiro/README.md)
-    * [Estouro com Inteiros sem Sinal](aritmetica/estouro-de-inteiro/estouro-com-inteiros-sem-sinal.md)
-    * [Estouro com Inteiros com Sinal](aritmetica/estouro-de-inteiro/estouro-com-inteiros-com-sinal.md)
+    * [Estouro de Inteiros sem Sinal](aritmetica/estouro-de-inteiro/estouro-de-inteiros-sem-sinal.md)
+    * [Estouro de Inteiros com Sinal](aritmetica/estouro-de-inteiro/estouro-de-inteiros-com-sinal.md)
 
 ## Apêndices
 
