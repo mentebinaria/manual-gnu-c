@@ -29,9 +29,17 @@
 * [➕ Aritmética](aritmetica/README.md)
   * [Aritmética Básica](aritmetica/aritmetica-basica.md)
   * [Aritmética de Inteiros](aritmetica/aritmetica-de-inteiros.md)
-  * [Estouro de Inteiro](aritmetica/estouro-de-inteiro/README.md)
-    * [Estouro de Inteiros sem Sinal](aritmetica/estouro-de-inteiro/estouro-de-inteiros-sem-sinal.md)
-    * [Estouro de Inteiros com Sinal](aritmetica/estouro-de-inteiro/estouro-de-inteiros-com-sinal.md)
+  * [Estouro de Inteiros](aritmetica/estouro-de-inteiros/README.md)
+    * [Estouro de Inteiros sem Sinal](aritmetica/estouro-de-inteiros/estouro-de-inteiros-sem-sinal.md)
+    * [Estouro de Inteiros com Sinal](aritmetica/estouro-de-inteiros/estouro-de-inteiros-com-sinal.md)
+  * [Aritmética em Modo Misto](aritmetica/aritmetica-em-modo-misto.md)
+  * [Divisão e Resto](aritmetica/divisao-e-resto.md)
+  * [Comparações Numéricas](aritmetica/comparacoes-numericas.md)
+  * [Operações de Deslocamento](aritmetica/operacoes-de-deslocamento/README.md)
+    * [Deslocar Gera Novos Bits](aritmetica/operacoes-de-deslocamento/deslocar-gera-novos-bits.md)
+    * [Advertências em Operações de Deslocamento](aritmetica/operacoes-de-deslocamento/advertencias-em-operacoes-de-deslocamento.md)
+    * [Hacks com Deslocamento](aritmetica/operacoes-de-deslocamento/hacks-com-deslocamento.md)
+  * [Operações Bit-a-bit](aritmetica/operacoes-bit-a-bit.md)
 
 ## Apêndices
 
