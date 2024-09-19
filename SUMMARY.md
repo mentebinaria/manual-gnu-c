@@ -40,6 +40,14 @@
     * [Advertências em Operações de Deslocamento](aritmetica/operacoes-de-deslocamento/advertencias-em-operacoes-de-deslocamento.md)
     * [Hacks com Deslocamento](aritmetica/operacoes-de-deslocamento/hacks-com-deslocamento.md)
   * [Operações Bit-a-bit](aritmetica/operacoes-bit-a-bit.md)
+* [🟰 Expressões de Atribuição](expressoes-de-atribuicao/README.md)
+  * [Atribuição Simples](expressoes-de-atribuicao/atribuicao-simples.md)
+  * [Lvalues](expressoes-de-atribuicao/lvalues.md)
+  * [Atribuição Modificadora](expressoes-de-atribuicao/atribuicao-modificadora.md)
+  * [Operadores de Incremento e Decremento](expressoes-de-atribuicao/operadores-de-incremento-e-decremento.md)
+  * [Pós-incremento e Pós-decremento](expressoes-de-atribuicao/pos-incremento-e-pos-decremento.md)
+  * [Armadilha: Atribuição em Subexpressões](expressoes-de-atribuicao/armadilha-atribuicao-em-subexpressoes.md)
+  * [Escreva Atribuições em Instruções Separadas](expressoes-de-atribuicao/escreva-atribuicoes-em-instrucoes-separadas.md)
 
 ## Apêndices
 
