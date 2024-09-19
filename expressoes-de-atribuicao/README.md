@@ -19,10 +19,10 @@ Como conceito geral em programação, uma atribuição é uma construção que a
 Uma atribuição em C é uma expressão porque possui um valor; chamamos isso de expressão de atribuição. Uma atribuição simples se parece com:
 
 ```c
-lvalue = value-to-store
+lvalue = valor-para-armazenar
 ```
 
-Dizemos que ela atribui o valor da expressão `value-to-store` ao local `lvalue`, ou que armazena `value-to-store` lá. Você também pode pensar no "l" de "lvalue" como significando "esquerda" _(left)_, já que é o que você coloca no lado esquerdo do operador de atribuição.
+Dizemos que ela atribui o valor da expressão `valor-para-armazenar` ao local `lvalue`, ou que armazena `valor-para-armazenar` lá. Você também pode pensar no "l" de "lvalue" como significando "esquerda" _(left)_, já que é o que você coloca no lado esquerdo do operador de atribuição.
 
 No entanto, essa não é a única forma de usar um _lvalue_, e nem todos os _lvalues_ podem ser atribuídos. Para usar o _lvalue_ no lado esquerdo de uma atribuição, ele precisa ser modificável. Em C, isso significa que ele não foi declarado com o qualificador de tipo `const` (veja [_const_](#user-content-fn-2)[^2]).
 
