@@ -83,6 +83,10 @@ shared_mem_base + (offset & (-1 << LOWBITS))
 
 Graças ao conjunto externo de parênteses, não precisamos saber se ‘&’ tem precedência mais alta que ‘+’. Graças ao conjunto interno, não precisamos saber se ‘&’ tem precedência mais alta que ‘<<’. Mas podemos confiar que todos os operadores unários têm precedência mais alta que qualquer operador binário, então não precisamos de parênteses ao redor do operando esquerdo de ‘<<’.
 
+{% embed url="https://www.youtube.com/watch?v=BpPHV5mR6lg" %}
+
+
+
 [^1]: Capítulo pendente de tradução
 
 [^2]: Capítulo pendente de tradução

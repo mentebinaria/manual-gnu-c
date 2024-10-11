@@ -42,4 +42,8 @@ Um conselho do Richard Stallman, a partir da sua experiência pessoal, é ir par
 
 Veja Compilação[^1] para uma introdução sobre compilação de programais mais complexos que consistem em mais de um arquivo de código-fonte.
 
+{% embed url="https://www.youtube.com/watch?v=dO8McxvBMBA" %}
+
+
+
 [^1]: Capítulo pendente de tradução

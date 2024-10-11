@@ -35,4 +35,8 @@ Não faça essas coisas em programas reais, pois elas tornam o código difícil 
 
 **Nota**: Por questão de uso de certas ferramentas no código-fonte, é sensato terminar cada arquivo fonte com um caractere de nova linha que não seja precedido por uma barra invertida, para que ele realmente termine a última linha.
 
+{% embed url="https://www.youtube.com/watch?v=2PaIGZo55VQ" %}
+
+
+
 [^1]: Capítulo pendente de tradução

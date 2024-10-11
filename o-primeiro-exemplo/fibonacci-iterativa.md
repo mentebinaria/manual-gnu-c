@@ -136,6 +136,10 @@ O corpo do laço `for` precisa ser um e somente um comando. Você não pode escr
 
 A forma de colocar múltiplos comandos no laço `for` é agrupá-los como um bloco e é isso que fazemos neste exemplo.
 
+{% embed url="https://www.youtube.com/watch?v=5emLjYUTbX4" %}
+
+
+
 [^1]: Capítulo pendente de tradução
 
 [^2]: Capítulo pendente de tradução

@@ -19,6 +19,8 @@ layout:
 
 ## Introdução à Edição em Português
 
+{% embed url="https://www.youtube.com/watch?v=_GrN71JZ7dg" %}
+
 Este livro é uma tradução comentada do [GNU C Language Manual](https://www.gnu.org/software/c-intro-and-ref/), publicado online gratuitamente no projeto GNU. Aqui na Mente Binária, pensamos que nossos conterrâneos no Brasil (e possivelmente outros falantes da língua portuguesa pelo mundo afora) merecem o acesso a um material deste calibre também em seu idioma materno e por isso iniciamos este processo de tradução.
 
 Traduzir nunca é fácil, por isso ressalto aqui algumas decisões que tomei e também algumas especificidades desta tradução:

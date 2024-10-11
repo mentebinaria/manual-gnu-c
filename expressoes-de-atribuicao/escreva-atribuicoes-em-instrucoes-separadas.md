@@ -42,4 +42,8 @@ if (x = advance (x), x != 0)
 
 No entanto, colocar a atribuição em uma instrução separada geralmente é mais claro, a menos que a atribuição seja muito curta, pois isso reduz o aninhamento.
 
+{% embed url="https://www.youtube.com/watch?v=kj6Y5EkioIw" %}
+
+
+
 [^1]: Capítulo pendente de tradução

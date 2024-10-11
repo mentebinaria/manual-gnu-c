@@ -70,6 +70,8 @@ Fazer isso faz com que você possa adicionar ou remover elementos na inicializa�
 Só lembre-se que isto é em tempo de compilação, ou seja, é preciso recompilar o programa para alterar os elementos com os quais o array é inicializado. Só assim `sizeof` retornará o valor atualizado do tamanho do array.
 {% endhint %}
 
-***
+{% embed url="https://www.youtube.com/watch?v=GARkpT6-x-g" %}
+
+
 
 [^1]: Capítulo pendente de tradução
