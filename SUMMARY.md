@@ -48,6 +48,12 @@
   * [Pós-incremento e Pós-decremento](expressoes-de-atribuicao/pos-incremento-e-pos-decremento.md)
   * [Armadilha: Atribuição em Subexpressões](expressoes-de-atribuicao/armadilha-atribuicao-em-subexpressoes.md)
   * [Escreva Atribuições em Instruções Separadas](expressoes-de-atribuicao/escreva-atribuicoes-em-instrucoes-separadas.md)
+* [🕹️ Expressões de Controle de Execução](expressoes-de-controle-de-execucao/README.md)
+  * [Operadores Lógicos](expressoes-de-controle-de-execucao/operadores-logicos.md)
+  * [Operadores Lógicos e Comparações](expressoes-de-controle-de-execucao/operadores-logicos-e-comparacoes.md)
+  * [Operadores Lógicos e Atribuições](expressoes-de-controle-de-execucao/operadores-logicos-e-atribuicoes.md)
+  * [Expressão Condicional](expressoes-de-controle-de-execucao/expressao-condicional.md)
+  * [Operador Vírgula](expressoes-de-controle-de-execucao/operador-virgula.md)
 
 ## Apêndices
 
