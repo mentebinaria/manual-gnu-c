@@ -54,6 +54,7 @@
   * [Operadores Lógicos e Atribuições](expressoes-de-controle-de-execucao/operadores-logicos-e-atribuicoes.md)
   * [Expressão Condicional](expressoes-de-controle-de-execucao/expressao-condicional.md)
   * [Operador Vírgula](expressoes-de-controle-de-execucao/operador-virgula.md)
+* [🐫 Gramática dos Operadores Binários](gramatica-dos-operadores-binarios.md)
 
 ## Apêndices
 
