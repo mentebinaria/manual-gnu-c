@@ -47,3 +47,6 @@ Há uma outra ordem de precedência da qual o código pode depender:
 A advertência para operadores bit-a-bit e de deslocamento é similar à dos operadores lógicos: você pode deixar múltiplos usos de um operador bit-a-bit se associarem, mas sempre use parênteses para controlar o aninhamento de operadores diferentes.
 
 Essas listas não especificam qualquer ordem de precedência entre os operadores bit-a-bit e de deslocamento da segunda lista e os operadores binários acima das expressões condicionais na primeira lista. Quando eles aparecem juntos, coloque parênteses. Veja [Operações Bit-a-bit](aritmetica/operacoes-bit-a-bit.md).
+
+> Nota pessoal de Richard Stallman: Eu escrevi o GCC sem lembrar nada sobre a ordem de precedência em C além do que está declarado aqui. Estudei a tabela completa de precedência para escrever o _parser_ do GCC e prontamente a esqueci novamente. Se você precisar consultar a ordem completa de precedência para entender algum código em C, adicione parênteses suficientes para que ninguém mais precise fazer isso.
+
