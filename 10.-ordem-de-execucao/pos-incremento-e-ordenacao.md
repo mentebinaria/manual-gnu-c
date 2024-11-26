@@ -22,6 +22,14 @@ z = x++ - foo ()
 
 não é previsível se `x` será incrementado antes ou depois de chamar a função `foo`. Se `foo` referir-se a `x`, ela pode ver o valor antigo ou o valor incrementado.
 
+{% hint style="info" %}
+A solução para estes e outros problemas de ordem de execução é simples: definir bem os pontos de sequência ao usar instruções separadas. Por exemplo:&#x20;
+
+`x++;`
+
+`z = x - foo ();`
+{% endhint %}
+
 Nesta expressão em particular:
 
 ```c
