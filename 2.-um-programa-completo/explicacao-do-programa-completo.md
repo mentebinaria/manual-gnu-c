@@ -26,7 +26,7 @@ A chamada inicial para `main` sempre passa certos argumentos, mas a `main` não 
 
 A função `main` retorna `0` porque essa é a maneira convencional de ela indicar uma execução bem-sucedida. Ela poderia, ao invés disso, retornar um número inteiro positivo para indicar erro, e alguns programas utilitários têm convenções específicas para o significado de certos códigos numéricos de erro. Veja [Valores da main](#user-content-fn-2)[^2].
 
-A maneira mais simples de imprimir texto em C é chamando a função `printf`, então aqui explicamos brevemente o que essa função faz. Para uma explicação completa de `printf` e das outras funções padrão de entrada e sída (E/S), veja a seção "I/O on Streams" no _The GNU C Library Reference Manua_l (disponível somente em inglês).
+A maneira mais simples de imprimir texto em C é chamando a função `printf`, então aqui explicamos brevemente o que essa função faz. Para uma explicação completa de `printf` e das outras funções padrão de entrada e sída (E/S), veja a seção "I/O on Streams" no _The GNU C Library Reference Manu&#x61;_&#x6C; (disponível somente em inglês).
 
 O primeiro argumento da `printf` é uma constante string ([Strings Constantes](#user-content-fn-3)[^3]) que é um modelo para a saída. A função `printf` copia a maior parte dessa string diretamente para a saída, incluindo o caractere de nova linha no final da string, que é escrito como '\n'. A saída vai para a saída padrão do programa, que comumente é o terminal.
 

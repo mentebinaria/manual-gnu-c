@@ -46,7 +46,7 @@ Se um operador unário precede uma expressão de pós-incremento ou pós-decreme
 
 Essa é a única ordem que faz sentido; `-a` não é um _lvalue_, então não pode ser incrementado.
 
-O uso mais comum de pós-incremento é com arrays. Aqui está um exemplo de uso de pós-incremento para acessar um elemento de um array e avançar o índice para o próximo acesso. Compare com o exemplo `avg_of_double` (veja [Um Exemplo com Arrays](../alem-dos-inteiros/um-exemplo-com-arrays.md)), que é quase o mesmo, mas não usa pós-incremento.
+O uso mais comum de pós-incremento é com arrays. Aqui está um exemplo de uso de pós-incremento para acessar um elemento de um array e avançar o índice para o próximo acesso. Compare com o exemplo `avg_of_double` (veja [Um Exemplo com Arrays](../4.-alem-dos-inteiros/um-exemplo-com-arrays.md)), que é quase o mesmo, mas não usa pós-incremento.
 
 ```c
 double

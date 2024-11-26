@@ -14,7 +14,7 @@ layout:
 
 # Programa Completo Linha por Linha
 
-Aqui está o mesmo exemplo explicado linha por linha. **Iniciantes, vocês acham que esta seção ajuda ou não? Vocês gostariam de um **_**layout**_** diferente por exemplo? Por favor, escreva para rms@gnu.org (em inglês).**
+Aqui está o mesmo exemplo explicado linha por linha. **Iniciantes, vocês acham que esta seção ajuda ou não? Vocês gostariam de um&#x20;**_**layout**_**&#x20;diferente por exemplo? Por favor, escreva para rms@gnu.org (em inglês).**
 
 ```c
 #include <stdio.h>      /* Inclui as declarações de funções */
