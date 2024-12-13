@@ -62,6 +62,19 @@
   * [Pós-incremento e Ordenação](10.-ordem-de-execucao/pos-incremento-e-ordenacao.md)
   * [Ordenação de Operandos](10.-ordem-de-execucao/ordenacao-de-operandos.md)
   * [Otimização e Ordenação](10.-ordem-de-execucao/otimizacao-e-ordenacao.md)
+* [🎲 11. Tipos Primitivos](11.-tipos-primitivos/README.md)
+  * [Tipos de Dados Inteiros](11.-tipos-primitivos/tipos-de-dados-inteiros/README.md)
+    * [Inteiros Básicos](11.-tipos-primitivos/tipos-de-dados-inteiros/inteiros-basicos.md)
+    * [Tipos Com ou Sem Sinal](11.-tipos-primitivos/tipos-de-dados-inteiros/tipos-com-ou-sem-sinal.md)
+    * [Inteiros Estreitos](11.-tipos-primitivos/tipos-de-dados-inteiros/inteiros-estreitos.md)
+    * [Conversão entre Tipos Inteiros](11.-tipos-primitivos/tipos-de-dados-inteiros/conversao-entre-tipos-inteiros.md)
+    * [Tipo Booleano](11.-tipos-primitivos/tipos-de-dados-inteiros/tipo-booleano.md)
+    * [Variações de Inteiros](11.-tipos-primitivos/tipos-de-dados-inteiros/variacoes-de-inteiros.md)
+  * [Tipos de Dados de Ponto Flutuante](11.-tipos-primitivos/tipos-de-dados-de-ponto-flutuante.md)
+  * [Tipos de Dados Complexos](11.-tipos-primitivos/tipos-de-dados-complexos.md)
+  * [O Tipo Void](11.-tipos-primitivos/o-tipo-void.md)
+  * [Outros Tipos de Dados](11.-tipos-primitivos/outros-tipos-de-dados.md)
+  * [Designadores de Tipos](11.-tipos-primitivos/designadores-de-tipos.md)
 
 ## Apêndices
 
