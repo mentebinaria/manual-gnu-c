@@ -75,6 +75,17 @@
   * [O Tipo Void](11.-tipos-primitivos/o-tipo-void.md)
   * [Outros Tipos de Dados](11.-tipos-primitivos/outros-tipos-de-dados.md)
   * [Designadores de Tipos](11.-tipos-primitivos/designadores-de-tipos.md)
+* [🪨 12. Constantes](12.-constantes/README.md)
+  * [Constantes do Tipo Inteiro](12.-constantes/constantes-do-tipo-inteiro.md)
+  * [Tipos de Dados de Constantes do Tipo Inteiro](12.-constantes/tipos-de-dados-de-constantes-do-tipo-inteiro.md)
+  * [Constantes de Ponto Flutuante](12.-constantes/constantes-de-ponto-flutuante.md)
+  * [Constantes de Números Imaginários](12.-constantes/constantes-de-numeros-imaginarios.md)
+  * [Constantes de Caracteres](12.-constantes/constantes-de-caracteres.md)
+  * [Constantes do Tipo String](12.-constantes/constantes-do-tipo-string.md)
+  * [Constantes do Tipo String UTF-8](12.-constantes/constantes-do-tipo-string-utf-8.md)
+  * [Códigos de Caracteres Unicode](12.-constantes/codigos-de-caracteres-unicode.md)
+  * [Constantes do Tipo Caractere Largo](12.-constantes/constantes-do-tipo-caractere-largo.md)
+  * [Constantes do Tipo String Larga](12.-constantes/constantes-do-tipo-string-larga.md)
 
 ## Apêndices
 
