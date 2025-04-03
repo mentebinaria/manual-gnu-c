@@ -13,7 +13,7 @@
   * [Explicação do Programa Completo](2.-um-programa-completo/explicacao-do-programa-completo.md)
   * [Programa Completo Linha por Linha](2.-um-programa-completo/programa-completo-linha-por-linha.md)
   * [Compilando o Programa de Exemplo](2.-um-programa-completo/compilando-o-programa-de-exemplo.md)
-* [👜 Armazenamento e Dados](armazenamento-e-dados.md)
+* [👜 3. Armazenamento e Dados](3.-armazenamento-e-dados.md)
 * [🥑 4. Além dos Inteiros](4.-alem-dos-inteiros/README.md)
   * [Um Exemplo com Números Não Inteiros](4.-alem-dos-inteiros/um-exemplo-com-numeros-nao-inteiros.md)
   * [Um Exemplo com Arrays](4.-alem-dos-inteiros/um-exemplo-com-arrays.md)
@@ -86,6 +86,7 @@
   * [Códigos de Caracteres Unicode](12.-constantes/codigos-de-caracteres-unicode.md)
   * [Constantes do Tipo Caractere Largo](12.-constantes/constantes-do-tipo-caractere-largo.md)
   * [Constantes do Tipo String Larga](12.-constantes/constantes-do-tipo-string-larga.md)
+* [📐 13. Tamanho de Tipo](13.-tamanho-de-tipo.md)
 
 ## Apêndices
 
